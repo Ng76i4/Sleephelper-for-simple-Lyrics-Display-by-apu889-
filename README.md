@@ -11,3 +11,9 @@ From: ContextAction2=[!SetOption - String "Spotify"][!UpdateMeasure -][!SetOptio
 to: ContextAction2=[!SetOption - String "Spotify"][!UpdateMeasure -][!SetOption -- String "WebNowPlaying"][!UpdateMeasure --]
 
 Move Musixmatch.ini to new folder named Lyricx
+
+Copy Sleephelper Lyricx folder to Simple Lyrics Display folder
+
+Open rainmeter and load SleephelperLyricx.ini
+
+Now try to play, pause spotify player. It will also work when you turn of the player.
