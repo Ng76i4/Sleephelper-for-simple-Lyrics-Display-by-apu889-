@@ -17,10 +17,10 @@ Copy Sleephelper Lyricx folder to Simple Lyrics Display folder
 Open rainmeter and load SleephelperLyricx.ini
 
 Now try to play, pause spotify player. It will also work when you turn of the player.
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
 OR JUST SIMPLY INSTALL THE .RMSKIN 
